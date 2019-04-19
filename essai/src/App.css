@@ -1,0 +1,217 @@
+.wedding{
+  width: 103%;
+    border-radius: 54%;
+}
+  
+
+
+.photo2 {
+border-radius: 306px;
+    width: 116%;}
+
+    .photo {
+      border-radius: 50%;
+          width: 116%;}
+
+
+.tout{
+  width: 92%;
+  border-radius: 48%;
+}
+  
+
+a.btn.button-style-2 {
+  background-image:#aecbf3;
+}
+
+
+.box13 img {
+  width: 100%;
+  
+
+}
+
+.dress{
+  background-image: url'')
+
+}
+.intro{
+  margin-top: 4%;
+    margin-bottom: 9%;
+    margin-left: 9%;
+    color: #847334;
+}
+.space{
+  margin-left:10%;
+}
+.pop{
+  width: 100%;
+  border-radius: 30%;
+}
+
+
+
+
+.sanstoit{
+  background-color:#F5F5F5;
+  height:650px;
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+
+}
+.toit{
+  background-color:	#F5F5F5;
+  height: 650px;
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+
+}
+.colornav{
+  background-color: pink;
+ 
+}
+
+.img1{
+  display: flex;
+  height: 400px;
+  width: 400px;
+  margin: 20%;
+}
+
+.tilt {
+  -webkit-transition: all 0.5s ease;
+     -moz-transition: all 0.5s ease;
+       -o-transition: all 0.5s ease;
+      -ms-transition: all 0.5s ease;
+          transition: all 0.5s ease;
+}
+ 
+.tilt:hover {
+  -webkit-transform: rotate(-10deg);
+     -moz-transform: rotate(-10deg);
+       -o-transform: rotate(-10deg);
+      -ms-transform: rotate(-10deg);
+          transform: rotate(-10deg);
+}
+
+.tilt2 {
+  -webkit-transition: all 0.5s ease;
+     -moz-transition: all 0.5s ease;
+       -o-transition: all 0.5s ease;
+      -ms-transition: all 0.5s ease;
+          transition: all 0.5s ease;
+}
+ 
+.tilt2:hover {
+  -webkit-transform: rotate(10deg);
+     -moz-transform: rotate(10deg);
+       -o-transform: rotate(10deg);
+      -ms-transform: rotate(10deg);
+          transform: rotate(10deg);
+}
+
+
+.class_test {
+  text-align: center;
+  display: inline-block;
+  position: relative;
+}
+
+  .class_test:hover p.text {
+      opacity: 1;
+  }
+
+.class_test p.text {
+  color:rgb(109, 105, 105);
+  width: 500px;
+  height: 200px;
+  font-size: 200%;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  margin: 10%;
+  top: 80;
+  opacity: 0;
+  display: block;
+  position: absolute;
+  -webkit-transition: opacity .5s ease-in-out;
+  -moz-transition: opacity .5s ease-in-out;
+  -o-transition: opacity .5s ease-in-out;
+  -ms-transition: opacity .5s ease-in-out;
+}
+.zoom{
+  zoom: 100% !important;
+}
+
+
+
+.txtwhite{
+  margin:30% 10%;
+  margin-left: 0% !important;
+
+  color: white;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+.wtv{
+display: flex;
+flex-direction: column;
+
+}
+
+img-circle {
+  border-radius: 50%;
+}
+
+.hdr{
+  display: flex;
+  justify-content: space-between;
+}
+.black{
+  background-color: black;
+}
+.white{
+  color: white;
+}
+.center{
+  display: flex;
+  justify-content: center;
+}
+
+
+.fooot{
+  background-color: #f7c5cf;
+
+  height: 27%;
+}
+
+.bto{
+  margin-left:45%;
+color:pink;
+}
+
+.Colorbackpw {
+  background-image: url('https://images.pexels.com/photos/2088203/pexels-photo-2088203.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+}
+.color{
+  color: pink;
+  margin-top: 66px
+}
+
+
+
+.backbtn{
+  color: pink;
+}
+
+.tit{
+  margin-bottom: 10%;
+  color: palevioletred;
+}
+.form {
+  display: block;
+  margin-top: 0em;
+}
+
+.bcontainer{
+  background-color: pink;
+}
